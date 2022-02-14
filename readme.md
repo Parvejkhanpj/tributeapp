@@ -1,0 +1,6 @@
+--first give Html statuture
+--make a title and Subtile in header section
+--insert a img with caption 
+--brif the life jureny in bollut point by year by year
+--give a best quote 
+--final line and insert a link of wikipedia

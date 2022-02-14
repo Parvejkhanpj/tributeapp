@@ -1,0 +1,74 @@
+body {
+  background-color: rgb(238, 238, 238);
+}
+
+header {
+  position: relative;
+  text-align: center;
+  font-family: 'BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif';
+}
+#title {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 36px;
+}
+
+figure {
+  background-color: white;
+  padding: 20px;
+  margin: 0;
+  overflow: hidden;
+  text-align: center;
+}
+figcaption  {
+    display: block;
+}
+#img-div {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+#tribute-info {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  display: block;
+  /* width: 540px; */
+  
+}
+
+#life-line {
+  text-align: center;
+  padding: 20px;
+}
+
+ul{
+     margin: 0px auto 0px;
+     max-width: 550px;
+     text-align: left;
+     line-height: 1.5em;
+
+}
+
+li{
+    padding: 10px;
+}
+
+blockquote{
+    font-style: italic;
+    margin: 0px auto 0px;
+     max-width: 550px;
+     text-align: left;
+     line-height: 1.5em;
+     padding-top:20px;
+}
+
+footer{
+font-style: bold;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+font-size: 16px;
+margin-bottom: 20px;
+}
+#tribute-link{
+ color: rgb(9, 90, 90);
+}
